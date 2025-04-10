@@ -10,6 +10,9 @@
 
 2nd commit - create the database and tables
 
+2nd commit - register page
+
+
 
 ## Autores
 
